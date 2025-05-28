@@ -54,8 +54,7 @@ Les contributions sont les bienvenues ! Veuillez suivre les étapes ci-dessous :
 ## Licence
 Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
 
-## Captures d'écran
-Ajoutez ici des captures d'écran de l'application pour montrer son interface et ses fonctionnalités.
+
 
 ---
 
