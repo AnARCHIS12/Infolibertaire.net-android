@@ -1,7 +1,7 @@
 # Infolibertaire Android Application
 
 <p align="center">
-  <img src="Capture%20d%E2%80%99%C3%A9cran%202025-05-28%20%C3%A0%2017.06.53.png" alt="Infolibertaire Logo" width="300"/>
+  <img src="info.png" alt="Infolibertaire Logo" width="300"/>
 </p>
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/votre-utilisateur/infolibertaire-android/android.yml?branch=main)
