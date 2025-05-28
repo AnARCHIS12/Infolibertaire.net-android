@@ -59,4 +59,4 @@ Ajoutez ici des captures d'écran de l'application pour montrer son interface et
 
 ---
 
-Développé avec ❤️ par l'équipe Infolibertaire.
+Développé avec ❤️ par la commu Infolibertaire.
