@@ -4,8 +4,6 @@
   <img src="info.png" alt="Infolibertaire Logo" width="300"/>
 </p>
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/votre-utilisateur/infolibertaire-android/android.yml?branch=main)
-![License](https://img.shields.io/github/license/votre-utilisateur/infolibertaire-android)
 ![Android](https://img.shields.io/badge/platform-Android-green)
 
 ## Description
