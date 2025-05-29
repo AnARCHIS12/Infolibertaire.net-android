@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Infolibertaire</string>
+    <string name="welcome_message">Bienvenue sur Infolibertaire</string>
+    <string name="description">Une application pour acceder aux ressources d\'Infolibertaire.</string>
+    <string name="button_label">Cliquez ici</string>
+    <string name="error_message">Une erreur s\'est produite. Veuillez reessayer.</string>
+    <string name="info_text">Bienvenue sur l\'application Infolibertaire.net</string>
+</resources>

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Wrapper script for Gradle
+DIR="$(cd "$(dirname "$0")" && pwd)"
+if [ -x "$DIR/gradlew" ]; then
+  exec "$DIR/gradlew" "$@"
+else
+  echo "gradlew not found. Please run 'gradle wrapper' from Android Studio."
+  exit 1
+fi
