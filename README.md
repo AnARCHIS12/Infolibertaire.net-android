@@ -10,10 +10,10 @@
 L'application **Infolibertaire** est une application Android dédiée à la diffusion d'informations et de ressources liées à la liberté et à l'autonomie. Elle permet aux utilisateurs d'accéder à des articles, des événements et des ressources utiles directement depuis leur appareil mobile.
 
 ## Fonctionnalités principales
-- 🌐 Chargement des articles depuis [infolibertaire.net](https://infolibertaire.net)
-- ⭐ Gestion des favoris (ajout, suppression, liste)
-- 🔄 Actualisation des pages
-- 📤 Partage des articles
+-  Chargement des articles depuis [infolibertaire.net](https://infolibertaire.net)
+-  Gestion des favoris (ajout, suppression, liste)
+- Actualisation des pages
+- Partage des articles
 
 ## Prérequis
 - **Android Studio** (version recommandée : Arctic Fox ou plus récent)
